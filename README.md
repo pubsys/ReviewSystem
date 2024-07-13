@@ -14,6 +14,10 @@ Due to the review mechanism of the top conference, this matter was originally di
 
 Currently, Nanyang Technological University has expelled the person involved, **but Nankai University has not yet responded**
 
+相关消息在知乎、小红书等平台均被屏蔽，感谢华清大学SBC博士慷慨施教，教学课程：https://github.com/ShiArthur03/ShiArthur03 ，这鼓励我们这些学术界的正义人士向全世界告知真相
+
+Related news has been blocked on platforms such as Zhihu and Xiaohongshu. Thanks to Dr. SBC from Huaqing University for his generous teaching. Teaching courses: https://github.com/ShiArthur03/ShiArthur03. This encourages us, the righteous people in the academic community, to tell the truth to the world.
+
 事件整个详情见：[南开大学、南洋理工大学2024年AI顶会作弊被查](https://www.bilibili.com/video/BV1gz421U7Aw/?spm_id_from=333.337.search-card.all.click&vd_source=334824d35a6e99418c4eb39c937e1d98)
 
 For details of the incident, see: [Nankai University and Nanyang Technological University were investigated for cheating at the 2024 AI Summit](https://www.bilibili.com/video/BV1gz421U7Aw/?spm_id_from=333.337.search-card.all.click&vd_source=334824d35a6e99418c4eb39c937e1d98)
@@ -22,6 +26,6 @@ For details of the incident, see: [Nankai University and Nanyang Technological U
 ![Figure 2](./img2.png)
 ![Figure 3](./img3.png)
 
-给大家翻译一下：审稿意见有问题，组委会重新审核后，发现这个文章质量太差，应该被拒
+翻译一下：审稿意见有问题，组委会重新审核后，发现这个文章质量太差，应该被拒
 
-Translation for everyone: There are problems with the review opinions. After re-examination, the organizing committee found that the quality of this article is too poor and should be rejected.
+Translation: There are problems with the review opinions. After re-examination, the organizing committee found that the quality of this article is too poor and should be rejected.
